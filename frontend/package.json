@@ -1,0 +1,14 @@
+{
+  "name": "james-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "node ./node_modules/@sveltejs/kit/svelte-kit.js dev",
+    "build": "node ./node_modules/@sveltejs/kit/svelte-kit.js build",
+    "preview": "node ./node_modules/@sveltejs/kit/svelte-kit.js preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "latest",
+    "svelte": "latest"
+  }
+}
